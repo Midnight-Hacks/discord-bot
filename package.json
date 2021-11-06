@@ -1,0 +1,25 @@
+{
+  "name": "mh-bot",
+  "version": "1.0.0",
+  "description": "A discord bot to notify users about events for our hackathon",
+  "main": "test-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midnight-Hacks/discord-bot.git"
+  },
+  "author": "AngleSideAngle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Midnight-Hacks/discord-bot/issues"
+  },
+  "homepage": "https://github.com/Midnight-Hacks/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
